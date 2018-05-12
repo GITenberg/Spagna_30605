@@ -1,0 +1,32 @@
+_repo: Spagna_30605
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amichis, Edmondo de
+    - Amicis, Edmondo de
+    - Amicis, Edmundo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_bookshelf: IT Viaggi
+gutenberg_issued: '2009-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30605'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+title: Spagna
+url: http://www.gutenberg.org/ebooks/30605
